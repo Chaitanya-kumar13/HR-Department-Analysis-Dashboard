@@ -1,5 +1,5 @@
 # HR-Department-Analysis-Dashboard
-
+..................................
 # Project Title / Headline : HR Department Analysis Dashboard using Power BI
 - 🎬 Analyzed employee and HR data to identify trends across workforce size, departments, attrition, experience, age, and gender
 - 📊 Delivered interactive insights highlighting employee distribution, retention risks, and workforce performance indicators
@@ -56,4 +56,4 @@ Q20. What workforce trends can support better HR planning and retention strategi
 - 📊 Demographics & Experience Trends
 
 # Dashboard Screenshot :
-🔗 
+🔗 https://github.com/Chaitanya-kumar13/HR-Department-Analysis-Dashboard/blob/main/HR.png
